@@ -1,8 +1,0 @@
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\bin\Debug\DumpPhys.exe
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\bin\Debug\DumpPhys.pdb
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\obj\Debug\DumpPhys.Form1.resources
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\obj\Debug\DumpPhys.Properties.Resources.resources
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\obj\Debug\DumpPhys.csproj.GenerateResource.cache
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\obj\Debug\DumpPhys.csproj.CoreCompileInputs.cache
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\obj\Debug\DumpPhys.exe
-D:\projects\QJG\WinIo\Samples\DumpPhys\DumpPhys\obj\Debug\DumpPhys.pdb
