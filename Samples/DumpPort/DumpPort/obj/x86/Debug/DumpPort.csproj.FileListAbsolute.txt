@@ -1,0 +1,9 @@
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\bin\x86\Debug\DumpPort.exe
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\bin\x86\Debug\DumpPort.pdb
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.csproj.AssemblyReference.cache
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.Form1.resources
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.Properties.Resources.resources
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.csproj.GenerateResource.cache
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.csproj.CoreCompileInputs.cache
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.exe
+D:\projects\QJG\WinIo\Samples\DumpPort\DumpPort\obj\x86\Debug\DumpPort.pdb
